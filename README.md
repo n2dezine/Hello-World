@@ -1,2 +1,2 @@
-Hello-Worlduuuuu
+Hello-World! Learned basics of Git.
 ===========
